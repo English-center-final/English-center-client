@@ -1,0 +1,13 @@
+// .rbc-time-view .rbc-row {
+//   box-sizing: border-box;
+//   min-height: none;
+// }
+.rbc-allday-cell {
+  height: 0 !important;
+}
+.rbc-time-header {
+  background-color: #e9f6ff !important;
+}
+.rbc-time-column:nth-child(1) {
+  background-color: #ffffcd !important;
+}

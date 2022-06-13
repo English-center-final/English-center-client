@@ -1,0 +1,57 @@
+#course-main-page {
+  margin: 24px 10vw;
+  z-index: 10;
+}
+#SECTION_1 {
+  height: 431.513px;
+  position: relative;
+  width: 100%;
+  background: linear-gradient(
+        to right,
+        rgba(39, 70, 133, 0.8) 0%,
+        rgba(61, 179, 197, 0.8) 100%
+      )
+      repeat scroll 0% 0% / auto padding-box border-box,
+    rgba(0, 0, 0, 0) url('../../../../assets/image/hero-bg.jpg') repeat scroll
+      0% 0% / auto padding-box border-box;
+  background-size: cover;
+}
+#wrap-svg {
+  bottom: -150px;
+  height: 265px;
+  left: 0px;
+  perspective-origin: 738px 132.5px;
+  position: absolute;
+  right: 0px;
+  width: 100%;
+}
+#svg {
+  height: 265px;
+  width: 100%;
+}
+#g_5 {
+  fill: rgb(255, 255, 255);
+  transform: matrix(1, 0, 0, 1, 0, -402);
+}
+#path_6 {
+  d: path(
+    'M 0 439.134 C 175.041 464.893 327.944 477.772 458.711 477.772 C 654.861 477.772 870.645 442.632 1205.98 410.193 C 1429.54 388.566 1667.55 411.092 1920 477.772 L 1920 667 L 1017.15 667 L 0 667 L 0 439.134 Z'
+  );
+}
+#wrap-header {
+  height: 880px;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+#text-title {
+  width: 100%;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 61.4375px;
+  font: 700 51.2px / 61.44px Poppins, sans-serif;
+  padding-top: 150px;
+}

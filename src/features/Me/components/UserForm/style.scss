@@ -1,0 +1,43 @@
+.btnConfirm {
+    width: auto;
+    margin-top: 15px;
+    border-radius: 0.6rem !important;
+    height: 35px;
+    background: linear-gradient(180deg, #27aae1 0%, #617ad3 100%) !important;
+    border: none !important;
+    font-weight: bold;
+    color: #ffffff !important;
+  }
+  
+  .btnConfirm:hover {
+    box-shadow: rgba(4, 17, 28, 0.25) 0px 0px 10px 0px;
+  }
+  .btnCancel {
+    width: auto;
+    margin-top: 15px;
+    border-radius: 0.6rem !important;
+    height: 35px;
+    background: linear-gradient(to bottom, #f27252, #e85443) !important;
+    border: none !important;
+    font-weight: bold;
+    color: #ffffff !important;
+  }
+  
+  .btnCancel:hover {
+    box-shadow: rgba(4, 17, 28, 0.25) 0px 0px 10px 0px;
+  }
+
+  .btnDisable {
+    width: auto;
+    margin-top: 15px;
+    border-radius: 0.6rem !important;
+    height: 35px;
+    background: linear-gradient(to bottom, #a3a2a2, #5e5d5d) !important;
+    border: none !important;
+    font-weight: bold;
+    color: #ffffff !important;
+  }
+  
+  .btnDisable:hover {
+    box-shadow: rgba(4, 17, 28, 0.25) 0px 0px 10px 0px;
+  }
